@@ -1,27 +1,27 @@
 # NODE-RSA-Encryption-with-forge
 Node.js RSA Encryption with Forge Library Example
 
-# Prerequisites
+## Prerequisites
 
 Node.js - You need Node.js to run this application.
 
-# Clone the repository
+##  Clone the repository
 ```
 git@github.com:Eduwardo/NODE-RSA-Encryption-with-forge.git
 ```
 
-# Install dependencies
+##  Install dependencies
 ```
 npm i
 ```
 
-# Run application
+##  Run application
 ```
 npm run start
 ```
 
 
-# Output expected
+##  Output expected
 
 ```
 
